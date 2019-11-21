@@ -173,9 +173,10 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(255, 50, 50);
+    /* background:rgb(255, 50, 50); */
+    background:rgb(220, 20, 60);
     color:#fff;
-    opacity: .3;
+    /* opacity: .3; */
     z-index:9;
     position:fixed;
     max-height:100vh;
