@@ -175,6 +175,7 @@ body {
     padding:5vh 5vw;
     background:rgb(255, 50, 50);
     color:#fff;
+    opacity: .3;
     z-index:9;
     position:fixed;
     max-height:100vh;
